@@ -11,7 +11,7 @@
 
 
 ### Technologies:
-### React JS , MongoDB , Node JS , Rest API , React Router , Heroku , Firebase,React Bootstrap , HTML , CSS
+#### React JS , MongoDB , Node JS , Rest API , React Router , Heroku , Firebase,React Bootstrap , HTML , CSS
 
 
 
